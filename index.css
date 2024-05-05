@@ -1,0 +1,33 @@
+a{ 
+    text-decoration: none; 
+    font-size: 30px; 
+} 
+nav{ 
+    height: 90px; 
+    display: flex; 
+    align-items: center; 
+} 
+ 
+input{ 
+    font-size: 30px; 
+    padding: 10px 20px; 
+    display: block; 
+    width: calc(100% - 40px); 
+    margin-bottom: 50px; 
+} 
+#aboutme{ 
+    display: flex; 
+    justify-content: center; 
+} 
+#gamebox{ 
+    width: 700px; 
+} 
+.link{ 
+    margin-left: 100px; 
+}
+.knopka{
+    border-color: black 100px;
+    border-radius: 2px;
+    background-color: aliceblue;
+    font-size: 35px;
+}
